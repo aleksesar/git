@@ -1,2 +1,2 @@
 # git
-git for beginners
+git for beginners!
